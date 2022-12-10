@@ -19,6 +19,7 @@ There’s nothing like the smell of a real Christmas tree in your home. Real tre
 - Real trees are biodegradable and can be recycled.
 - You can buy real trees that are grown sustainably. 
 
+
 ## Artificial Christmas Trees
 
 {{< image src="images/blog/christmas/arbol2.jpg"   class="center post-image post-image-int">}}
@@ -34,12 +35,12 @@ If you’re looking for a low-maintenance option, an artificial tree might be ri
 - You can buy artificial trees made from recycled materials.
 
 {{< product_gallery>}}
-  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0B2RQ9P6T&asins=B0B2RQ9P6T&linkId=5f8109747a25a6075e1deb750f8d2351"> }}
-  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0B2RPGSLJ&asins=B0B2RPGSLJ&linkId=c1a4c8c6ea934c383dc3211fb2244aad"> }}
-  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B077JB847N&asins=B077JB847N&linkId=29d126da3cb0bb29dcdfd030cbdd7aff"> }}
-  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B07GVD7S83&asins=B07GVD7S83&linkId=280bff612fae97e059ae17686b53f3b3"> }}
-  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BM4QKQXG&asins=B0BM4QKQXG&linkId=cb4177c73ed164b865f12a2b57b475ef"> }}
-  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B09DYCCD6M&asins=B09DYCCD6M&linkId=0c45ddf2afa4f23bf696988ded1aa594"> }}
+  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BLSKM2WB&linkId=7e1ce33b18d4b33374e51a0df4c7c7af">}}
+  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
 {{< /product_gallery >}}
 
 ## Flocked Christmas Trees
