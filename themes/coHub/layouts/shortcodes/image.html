@@ -20,7 +20,7 @@
 
 <figure {{ with .Get "class" }} class="{{.}}"{{ end }}>
     {{ with .Get "link" }}<a href="{{ . }}">{{ end }}
-        <img  {{ with .Get "class" }} src="{{ `{{.}}` | absURL }}"  {{ end }} />
+        <img  {{ with .Get "src" }} src="{{ `{{.}}` | absURL }}"  {{ end }} />
     {{ if .Get "link" }}</a>{{ end }}
 </figure>
 <!-- image -->
