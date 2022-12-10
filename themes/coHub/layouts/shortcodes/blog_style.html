@@ -1,0 +1,42 @@
+<style>
+    div.gallery_bl {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    text-align: center;
+    }
+    .gallery_bl img{
+        width:300px;
+        height:200px;
+    }
+    
+    div.gallery_bl {
+    width: 100%;
+    padding: 1%;
+    border-radius: 10px;
+    shape-margin: 15%;
+    }
+    
+    div.gallery_bl img {
+    width: 100%;
+    height: auto;
+    }
+    
+    div.desc h3{
+        text-align: center;
+    }
+
+    div.gallery_bl img:hover {
+        opacity: .7;
+        }
+</style>
+
+    <div class="gallery_bl">
+        {{ with .Get "link" }}<a href="{{ . }}">{{ end }}
+        <img src="{{ .Get "src" | absURL}}" >
+        </a>
+        <div class="desc center-text">
+            <h3>{{ .Get "title"}}</h3>
+    </div>
+</div>
