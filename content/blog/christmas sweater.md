@@ -14,37 +14,29 @@ It was the best of times, it was the worst of times. It was the age of wisdom, i
 
 We all have our own personal love stories. Some are happy and some are sad. Some are long and some are short. But every love story is special in its own way.
 
-And this is my love story. It's the story of how I fell in love with the Christmas sweater.
+And this is my love story. It’s the story of how I fell in love with the Christmas sweater.
 
 I was just a young boy when I first saw the Christmas sweater. It was love at first sight. I was mesmerized by the colors, the patterns, the designs. I knew I had to have one.
 
-So I begged, pleaded, and cajoled my parents until they finally relented and got me the sweater I wanted. I was so excited to wear it. I couldn't wait to show it off to my friends.
+So I begged, pleaded, and cajoled my parents until they finally relented and got me the sweater I wanted. The colors grew on me, the pattern became more familiar, and I began to feel like it was a part of me.
 
-But then something happened that I never could have expected. I put on the sweater and... I looked terrible. The colors clashed, the pattern was all wrong, and I just looked like a complete idiot.
-
-I was so embarrassed. I wanted to take the sweater off and hide away in a hole somewhere. But my parents had spent good money on it and they told me I had to wear it.
-
-So I did, and I got laughed at and made fun of by everyone. It was the worst day of my life.
-
-But then something strange happened. The more I wore the sweater, the more I started to like it. The colors grew on me, the pattern became more familiar, and I began to feel like it was a part of me.
-
-Soon, I was wearing the sweater all the time. It became my favorite piece of clothing. I even started to get compliments on it from people. They would say things like, "That's a really cool sweater" or "I love your Christmas sweater."
+Soon, I was wearing the sweater all the time. It became my favorite piece of clothing. The Christmas sweater was special to me because it was uniquely mine. It was a part of my story.
 
 And eventually, I realized that I loved the sweater not in spite of its flaws, but because of them. The Christmas sweater was special to me because it was uniquely mine. It was a part of my story.
 
 {{< product_gallery>}}
 
-  {{< product  src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09M3WYWQK&linkId=13470b3300774008df769e7accbdb94a">}}
+  {{< product  src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B07K9NH5PV&asins=B07K9NH5PV&linkId=519b7f2689069b079a8dd5a65d92d44e">}}
 
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BLSKM2WB&linkId=7e1ce33b18d4b33374e51a0df4c7c7af">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B012TJBXQY&asins=B012TJBXQY&linkId=2e9071f4a70b7f606c9b819cd7ddda3d">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B07HCQH5PF&asins=B07HCQH5PF&linkId=b594f448aaa9ef06ec53986988135cb9">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B07YJTT1QQ&asins=B07YJTT1QQ&linkId=ccd957411cc60f1d7f63c5709ed90a93">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BHD4QYC6&asins=B0BHD4QYC6&linkId=ce4fee078f00ae7f231008dc32b9ba38">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B08GYM6VX1&asins=B08GYM6VX1&linkId=dd080b46730de3e54e3fe9592c7a600">}}
 
 {{< /product_gallery >}}
 
@@ -67,17 +59,17 @@ People wear Christmas sweaters to show their holiday spirit. They also wear them
 
 {{< product_gallery>}}
 
-  {{< product  src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09M3WYWQK&linkId=13470b3300774008df769e7accbdb94a">}}
+  {{< product  src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B09D7R16BH&asins=B09D7R16BH&linkId=13f7239ded860819e50fd4babd13c8e6">}}
 
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BLSKM2WB&linkId=7e1ce33b18d4b33374e51a0df4c7c7af">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0126M20HU&asins=B0126M20HU&linkId=09385e605a56f5ce8189a4de2afe79ae">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B01N981CLM&asins=B01N981CLM&linkId=03b552c16b9110c600c3bb90fca603d3">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B07F33QQ2V&asins=B07F33QQ2V&linkId=b13cb782ddeaf3ef1b00405315bbf360">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0B8SPD839&asins=B0B8SPD839&linkId=05b8a2ac37b2f028bfc54fc3472ea3f1">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B07JNFPQGJ&asins=B07JNFPQGJ&linkId=7f8715c54990118b7c426f901d552ebb">}}
 
 {{< /product_gallery >}}
 
@@ -88,17 +80,17 @@ The Christmas sweater has come to symbolize Christmas itself. The sweater is oft
 
 {{< product_gallery>}}
 
-  {{< product  src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BBFRMTZ9&linkId=ff2227cf452286ac1eb4c06bb0dc3db8">}}
+  {{< product  src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B09KBXNFY8&asins=B09KBXNFY8&linkId=14a41a95d90a0feb7a38bc86016f12c4">}}
 
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BLSKM2WB&linkId=7e1ce33b18d4b33374e51a0df4c7c7af">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B09Y8WTKDG&asins=B09Y8WTKDG&linkId=bf3b57f7dee862faa23c43da623fb3e5">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B09K7K3CL1&asins=B09K7K3CL1&linkId=5228a27e07525cd24d32023e789fc374">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BHHD9RVC&asins=B0BHHD9RVC&linkId=bfcfff6343f0822b6e15dd144655fef7">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BCFR96DS&asins=B0BCFR96DS&linkId=090c9b6e27f7a0e8312a51a8b8f6c51d">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BDZ8R854&asins=B0BDZ8R854&linkId=59aff73ef302f99ec91bb47c4b3b3ae2&show_border=true">}}
 
 {{< /product_gallery >}}
 

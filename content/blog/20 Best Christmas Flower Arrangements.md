@@ -55,17 +55,17 @@ This fun arrangement is perfect for those who want to add a touch of whimsy to t
 
 {{< product_gallery>}}
 
-  {{< product  src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09M3WYWQK&linkId=13470b3300774008df769e7accbdb94a">}}
+  {{< product  src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BCVQ5Q96&asins=B0BCVQ5Q96&linkId=e4d4fcbd39860e6f2599908112612ecc">}}
 
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BLSKM2WB&linkId=7e1ce33b18d4b33374e51a0df4c7c7af">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BDZFRJQ7&asins=B0BDZFRJQ7&linkId=aa882b8b23a8ac3ee5452f7543995fa1">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BBV8S5SR&asins=B0BBV8S5SR&linkId=2c574aeee152e2b90d37df5aac88f0f8">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0B6J2N6W8&asins=B0B6J2N6W8&linkId=c0b20177e95ef5d174361bc2389a61af">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B096TJZ7BQ&asins=B096TJZ7BQ&linkId=aa324ae3071c22a81656049eb6ef698b">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=es_US&marketplace=amazon&region=US&placement=B0BFHCMCZD&asins=B0BFHCMCZD&linkId=9bacef829704525e73b8052f88db4c63">}}
 
 {{< /product_gallery >}}
 
@@ -118,17 +118,17 @@ This arrangement is perfect for those who want to add a touch of holiday cheer t
 
 {{< product_gallery>}}
 
-  {{< product  src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09M3WYWQK&linkId=13470b3300774008df769e7accbdb94a">}}
+  {{< product  src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BGLVFMDD&asins=B0BGLVFMDD&linkId=8580e17db922949dd2a4bb768b65e78b">}}
 
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BLSKM2WB&linkId=7e1ce33b18d4b33374e51a0df4c7c7af">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B07ZSXCBZW&asins=B07ZSXCBZW&linkId=b5ffc6477c1e16eb736dfa68cae45754">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BBVNR39G&asins=B0BBVNR39G&linkId=18c989ee8a14ab44b9c6a2778c2a29a0">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=es_US&marketplace=amazon&region=US&placement=B09MKBWK2D&asins=B09MKBWK2D&linkId=c1fd1a86e067040ec1aa8de2a42a389c">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0B5PQKDWK&asins=B0B5PQKDWK&linkId=15b835bb86f6cdd7269ed8febd7d6e6d">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BGL7CB7B&asins=B0BGL7CB7B&linkId=de3054360ffddbc55b083ad52eb0d263">}}
 
 {{< /product_gallery >}}
 

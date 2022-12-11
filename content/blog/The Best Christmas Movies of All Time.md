@@ -29,17 +29,17 @@ This 2003 film stars Will Ferrell as Buddy, a human who was raised by elves at t
 
 {{< product_gallery>}}
 
-  {{< product  src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09M3WYWQK&linkId=13470b3300774008df769e7accbdb94a">}}
+  {{< product  src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B01JCV3NF6&asins=B01JCV3NF6&linkId=00e6f71bf6c1e9a136922d7644c43cc7">}}
 
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BLSKM2WB&linkId=7e1ce33b18d4b33374e51a0df4c7c7af">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B00979KPXW&asins=B00979KPXW&linkId=de3fef9968dff53703a1cb2050628cbe">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B001E5CH0G&asins=B001E5CH0G&linkId=593ecebedbb5e4f10d663588ce957adf">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B001CW7ZZ8&asins=B001CW7ZZ8&linkId=94eb80194f9b2eab7a14ae94e565e886">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B074TN6SVP&asins=B074TN6SVP&linkId=05554c6016cef55d036b566169f01e04">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B01NCO9V09&asins=B01NCO9V09&linkId=c296c045cab5fa268afe094f549daacc">}}
 
 {{< /product_gallery >}}
 {{< image src="images/blog/christmas/sweters3.jpg"   class="center post-image post-image-int">}}
@@ -73,17 +73,17 @@ These are our picks for the best Christmas movies of all time. What are your fav
 
 {{< product_gallery>}}
 
-  {{< product  src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09M3WYWQK&linkId=13470b3300774008df769e7accbdb94a">}}
+  {{< product  src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B003UMW68Y&asins=B003UMW68Y&linkId=3016e0fbf6cc90e3bad68012ed52f981">}}
 
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0BLSKM2WB&linkId=7e1ce33b18d4b33374e51a0df4c7c7af">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B097JB1ZLD&asins=B097JB1ZLD&linkId=36ba74e8e39c0dd953b0adc30e6cfa55">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B086PSMVZW&asins=B086PSMVZW&linkId=f357a1e6970cc8debb4829cf2a2386d8">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B0BD94NN54&asins=B0BD94NN54&linkId=b65bb062a682195ad4a9d7609d5cb7ff">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B07Y1DDHG5&asins=B07Y1DDHG5&linkId=370bc31ed0a5119e4c33d79776de4a56">}}
   
-  {{< product src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=johannesta-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097DLHL51&linkId=b6aa96d92c111655498260ad3a69a885">}}
+  {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B07JYQTK85&asins=B07JYQTK85&linkId=b3520e21b393fb3c45eaddb5c25de6e8">}}
 
 {{< /product_gallery >}}
 # Happy holidays!
