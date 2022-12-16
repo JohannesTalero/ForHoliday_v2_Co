@@ -7,8 +7,6 @@ tags: [ "Christmas","sweater","love","story","American","tradition","fashion","s
 
 ## A Love Story
 
-{{< image src="images/blog/christmas/imagen_16_N.jpg"   class="center post-image post-image-int">}}
-
 
 It was the best of times, it was the worst of times. It was the age of wisdom, it was the age of foolishness. It was the epoch of belief, it was the epoch of incredulity. It was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.
 
