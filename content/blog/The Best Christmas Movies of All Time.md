@@ -1,14 +1,14 @@
 ---
 title: "The Best Christmas Movies of All Time:"
 date: 2022-11-22T11:16:38+06:00
-featureImage: images/blog/christmas/sweters1.jfif
+featureImage: images/blog/christmas/imagen_6_N.jpg
 tags: [ "Christmas", "movies", "best", "of all time", "family", "friends", "community", "holiday"]
 ---
 
 Christmas is a time for joy, for family, for love, and for giving. It's also a time for some of the best movies ever made. Whether you're looking for a heartwarming family film or a hilarious comedy, there's a Christmas movie out there for you.
 
 ## Here are our picks for the best Christmas movies of all time:
-{{< image src="images/blog/christmas/sweters3.jpg"   class="center post-image post-image-int">}}
+{{< image src="images/blog/christmas/imagen_13_N.jpg"   class="center post-image post-image-int">}}
 
 ### 1. It's a Wonderful Life
 
@@ -42,7 +42,7 @@ This 2003 film stars Will Ferrell as Buddy, a human who was raised by elves at t
   {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B01NCO9V09&asins=B01NCO9V09&linkId=c296c045cab5fa268afe094f549daacc">}}
 
 {{< /product_gallery >}}
-{{< image src="images/blog/christmas/sweters3.jpg"   class="center post-image post-image-int">}}
+{{< image src="images/blog/christmas/imagen_13_N.jpg"   class="center post-image post-image-int">}}
 
 
 ### 5. Home Alone
@@ -92,7 +92,7 @@ These are our picks for the best Christmas movies of all time. What are your fav
 
 {{< galery_blog>}}
 {{< blog_style src="images/blog/christmas/arboles3.png" link="/blog/types-of-christmas-trees/" title="Types of Christmas Trees" >}}
-{{< blog_style src="images/blog/blog-thumb-1.jpg" link="#" title="lalal" >}}
-{{< blog_style src="images/blog/blog-thumb-1.jpg" link="#" title="lalal" >}}
-{{< blog_style src="images/blog/blog-thumb-1.jpg" link="#" title="lalal" >}}
+{{< blog_style src="images/blog/christmas/imagen_12_N.jpg" link="/blog/christmas-sweater/" title="Christmas Sweater" >}}
+{{< blog_style src="images/blog/christmas/imagen_6_N.jpg" link="/blog/the-best-christmas-movies-of-all-time/" title="The Best Christmas Movies of All Time" >}}
+{{< blog_style src="images/blog/christmas/imagen_21_N.jpg" link="/blog/20-best-christmas-flower-arrangements/" title="20 Best Christmas Flower Arrangements" >}}
 {{< /galery_blog >}}

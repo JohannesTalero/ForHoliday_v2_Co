@@ -1,13 +1,13 @@
 ---
 title: "Christmas Sweater:"
 date: 2022-11-22T11:16:38+06:00
-featureImage: images/blog/christmas/sweters1.jfif
+featureImage: images/blog/christmas/imagen_12_N.jpg
 tags: [ "Christmas","sweater","love","story","American","tradition","fashion","statement","symbol","winter","wonderland"]
 ---
 
 ## A Love Story
 
-{{< image src="images/blog/christmas/sweters2.jfif"   class="center post-image post-image-int">}}
+{{< image src="images/blog/christmas/imagen_12_N.jfif"   class="center post-image post-image-int">}}
 
 
 It was the best of times, it was the worst of times. It was the age of wisdom, it was the age of foolishness. It was the epoch of belief, it was the epoch of incredulity. It was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.
@@ -51,7 +51,7 @@ The Christmas sweater fell out of fashion in the 1970s and 1980s but made a come
 
 ## A Fashion Statement
 
-{{< image src="images/blog/christmas/sweters4.jpg"   class="center post-image post-image-int">}}
+{{< image src="images/blog/christmas/imagen_15_N.jpg"   class="center post-image post-image-int">}}
 
 The Christmas sweater is no longer just a piece of clothing designed to keep you warm during the winter months. It has become a fashion statement.
 
@@ -74,7 +74,7 @@ People wear Christmas sweaters to show their holiday spirit. They also wear them
 {{< /product_gallery >}}
 
 ## A Symbol of Christmas
-{{< image src="images/blog/christmas/sweters4.jfif"   class="center post-image post-image-int">}}
+{{< image src="images/blog/christmas/imagen_22_N.jpg"   class="center post-image post-image-int">}}
 
 The Christmas sweater has come to symbolize Christmas itself. The sweater is often seen as a festive and fun item of clothing. It is also a reminder of the holiday season and the joy that comes with it.
 
@@ -95,7 +95,7 @@ The Christmas sweater has come to symbolize Christmas itself. The sweater is oft
 {{< /product_gallery >}}
 
 ## A Winter Wonderland
-{{< image src="images/blog/christmas/sweters2.jfif"   class="center post-image post-image-int">}}
+{{< image src="images/blog/christmas/imagen_17_N.jfif"   class="center post-image post-image-int">}}
 
 The Christmas sweater is the perfect piece of clothing to wear during the winter months. It will keep you warm and will also help you to spread holiday cheer. So put on your Christmas sweater and enjoy the winter wonderland.
 
@@ -106,7 +106,7 @@ The Christmas sweater is the perfect piece of clothing to wear during the winter
 
 {{< galery_blog>}}
 {{< blog_style src="images/blog/christmas/arboles3.png" link="/blog/types-of-christmas-trees/" title="Types of Christmas Trees" >}}
-{{< blog_style src="images/blog/blog-thumb-1.jpg" link="#" title="lalal" >}}
-{{< blog_style src="images/blog/blog-thumb-1.jpg" link="#" title="lalal" >}}
-{{< blog_style src="images/blog/blog-thumb-1.jpg" link="#" title="lalal" >}}
+{{< blog_style src="images/blog/christmas/imagen_12_N.jpg" link="/blog/christmas-sweater/" title="Christmas Sweater" >}}
+{{< blog_style src="images/blog/christmas/imagen_6_N.jpg" link="/blog/the-best-christmas-movies-of-all-time/" title="The Best Christmas Movies of All Time" >}}
+{{< blog_style src="images/blog/christmas/imagen_21_N.jpg" link="/blog/20-best-christmas-flower-arrangements/" title="20 Best Christmas Flower Arrangements" >}}
 {{< /galery_blog >}}

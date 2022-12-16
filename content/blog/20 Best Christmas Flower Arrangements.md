@@ -1,7 +1,7 @@
 ---
 title: "20 Best Christmas Flower Arrangements:"
 date: 2022-11-22T11:16:38+06:00
-featureImage: images/blog/christmas/arboles3.png
+featureImage: images/blog/christmas/imagen_21_N.jpg
 tags: [ "Christmas","flower","arrangements","Christmas flowers","holiday flowers","Christmas decor","holiday decor"]
 
 ---
@@ -13,7 +13,7 @@ No matter what your style, you’re sure to find an arrangement on this list tha
 
 ## Top 20 Christmas Flower Arrangements 
 
-{{< image src="images/blog/christmas/sweters1.jfif"   class="center post-image post-image-int">}}
+{{< image src="images/blog/christmas/imagen_5_N.jpg"   class="center post-image post-image-int">}}
 
 
 ### 1. Traditional Red and Green Arrangement
@@ -69,7 +69,7 @@ This fun arrangement is perfect for those who want to add a touch of whimsy to t
 
 {{< /product_gallery >}}
 
-{{< image src="images/blog/christmas/sweters2.jfif"   class="center post-image post-image-int">}}
+{{< image src="images/blog/christmas/imagen_21_N.jpg"   class="center post-image post-image-int">}}
 
 
 ### 10. North Pole Arrangement
@@ -137,9 +137,8 @@ This arrangement is perfect for those who want to add a touch of holiday cheer t
 ## Related Posts
 
 {{< galery_blog>}}
-{{< blog_style src="images/blog/blog-thumb-1.jpg" link="#" title="lalal" >}}
-{{< blog_style src="images/blog/blog-thumb-1.jpg" link="#" title="lalal" >}}
-{{< blog_style src="images/blog/blog-thumb-1.jpg" link="#" title="lalal" >}}
-{{< blog_style src="images/blog/blog-thumb-1.jpg" link="#" title="lalal" >}}
+{{< blog_style src="images/blog/christmas/arboles3.png" link="/blog/types-of-christmas-trees/" title="Types of Christmas Trees" >}}
+{{< blog_style src="images/blog/christmas/imagen_12_N.jpg" link="/blog/christmas-sweater/" title="Christmas Sweater" >}}
+{{< blog_style src="images/blog/christmas/imagen_6_N.jpg" link="/blog/the-best-christmas-movies-of-all-time/" title="The Best Christmas Movies of All Time" >}}
+{{< blog_style src="images/blog/christmas/imagen_21_N.jpg" link="/blog/20-best-christmas-flower-arrangements/" title="20 Best Christmas Flower Arrangements" >}}
 {{< /galery_blog >}}
-
