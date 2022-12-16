@@ -42,7 +42,7 @@ This 2003 film stars Will Ferrell as Buddy, a human who was raised by elves at t
   {{< product src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=holiday00a-20&language=en_US&marketplace=amazon&region=US&placement=B01NCO9V09&asins=B01NCO9V09&linkId=c296c045cab5fa268afe094f549daacc">}}
 
 {{< /product_gallery >}}
-{{< image src="images/blog/christmas/imagen_13_N.jpg"   class="center post-image post-image-int">}}
+{{< image src="images/blog/christmas/imagen_8_N.jpg"   class="center post-image post-image-int">}}
 
 
 ### 5. Home Alone
